@@ -6,9 +6,9 @@
 
 [![codewars](https://www.codewars.com/users/Insaider-ZOG/badges/large)](https://www.codewars.com/users/Insaider-ZOG) 
 
-Стек
+## Стек
 
-| Python | PostgreSQL | Django - DRF | SQLAlchemy | SQL | ООП | REST API | Docker - Docker-compose | Flask-RESTful | Git |
+# | Python | PostgreSQL | Django - DRF | SQLAlchemy | SQL | ООП | REST API | Docker - Docker-compose | Flask-RESTful | Git |
 
 Обучался в Яндекс-Практикуме. на специальность Python разработчик
 
@@ -16,7 +16,9 @@
 
 -Свидетельства и Сертификаты: Свидетельство об окончании курса в Яндекс Практикум Python основы, Python Backend-разработчик Django Git Database Python в web-разработке
 
-Мои проекты: Имею опыт работы с REST API, на таких фреймворках как: Django, а точнее Django REST framework, а так же Flask(Flask-RESTful).
+## Мои проекты:
+
+Имею опыт работы с REST API, на таких фреймворках как: Django, а точнее Django REST framework, а так же Flask(Flask-RESTful).
 
 Django использовался мной для написания web-api для реализации "виртуального склада". Я с командой веб-разработчиков работал над разработкой клиент-серверного приложение, для виртуального склада с запчастями на спец-технику, а так же ГСМ. Мною был реализованы api по по авторизации и аутентификации пользователей. Разработка осуществлялась на Phyton, Django + Django REST framework, PostgreSQL, Docker, Nginx, Gunicorn.
 
