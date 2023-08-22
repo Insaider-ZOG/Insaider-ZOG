@@ -2,7 +2,7 @@
 
 <h1 align="center">Привет, меня зовут <a href="https://github.com/Insaider-ZOG" target="_blank">Попов Алексей</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-### <h3 align="center">Я Python-разработчик из России.</h3>
+<h3 align="center">### Я Python-разработчик из России.</h3>
 
 [![codewars](https://www.codewars.com/users/Insaider-ZOG/badges/large)](https://www.codewars.com/users/Insaider-ZOG) 
 
