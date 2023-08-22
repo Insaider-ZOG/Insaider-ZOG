@@ -6,7 +6,7 @@
 
 [![codewars](https://www.codewars.com/users/Insaider-ZOG/badges/large)](https://www.codewars.com/users/Insaider-ZOG) 
 
-## Стек
+### Стек
 
 # | Python | PostgreSQL | Django - DRF | SQLAlchemy | SQL | ООП | REST API | Docker - Docker-compose | Flask-RESTful | Git |
 
