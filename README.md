@@ -4,7 +4,6 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Я Python-разработчик из России.</h3>
 
-[![codewars](https://www.codewars.com/users/Insaider-ZOG/badges/large)](https://www.codewars.com/users/Insaider-ZOG) 
 
 # Стек
 
@@ -26,3 +25,4 @@ Flask мною использовался во время написания Tel
 
 Готов постигать все новое самостоятельно. Коммуникабелен, пунктуален.
 
+[![codewars](https://www.codewars.com/users/Insaider-ZOG/badges/large)](https://www.codewars.com/users/Insaider-ZOG) 
